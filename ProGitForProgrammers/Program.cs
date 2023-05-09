@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Add in Visual studio");
-            Console.WriteLine("This line add to show the staging area");
             Console.WriteLine("add this message from Visual Studio");
+            Console.WriteLine("This line add to show the staging area");
         }
     }
 }
