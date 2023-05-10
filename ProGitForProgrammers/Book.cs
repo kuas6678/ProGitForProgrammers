@@ -13,5 +13,7 @@ namespace ProGitForProgrammers
         public List<string> Authors { get; set; }
 
         public DateTime PublicationDate { get; set; }
+
+        public record Book1(string Branch);
     }
 }
